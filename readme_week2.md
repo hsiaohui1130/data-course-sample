@@ -4,6 +4,10 @@
 不知道為什麼跑recommend_items的時候ram一直爆掉
 目前仍是 rule base: 0.00847457627118644
 
+1/3 01:30 補充：剛剛又再試了一下有過了 但是分數一樣是0.00847457627118644 應該是表示目前content base推薦的沒有效果
+colab: https://colab.research.google.com/github/hsiaohui1130/data-course-sample/blob/main/sample-content-based-copy.ipynb?hl=zh-tw#scrollTo=jj31R5TKrrKP
+Git: https://github.com/hsiaohui1130/data-course-sample/blob/main/sample-content-based-copy.ipynb
+
 ### 簡明清楚的使用說明：用了哪些方法？為什麼？
 
 鑑於上回沒很了解資料就埋頭下去做走了很多冤枉路
